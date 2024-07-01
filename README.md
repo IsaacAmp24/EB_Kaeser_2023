@@ -2,7 +2,7 @@
 
 ### Pasos
 
-> .[!NOTE]. 
+> [!NOTE] 
 > Instalar las siguientes dependencias
 >   - Lombok
 >   - Spring Boot DevTools
